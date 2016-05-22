@@ -16,7 +16,7 @@ here's the list:
 | Wiki | It's the main repository | [Cluster.Host](https://github.com/keeeenion/Cluster.Host) |
 | Website | Cluster.Host's landing page design | [Cluster.Host-Website](https://github.com/keeeenion/Cluster.Host-Webpage) |
 | Admin Dashboard | Admin dashboard for users to manage their services | [Cluster.Host-Admin-Dashboard](https://github.com/keeeenion/Cluster.Host-Admin-Dashboard) |
-| Server ingredients | All the shenanigans regarding servers setup, work and security | [Cluster.Host-Servers](https://github.com/keeeenion/Cluster.Host-Admin-Servers) |
+| Server ingredients | All the shenanigans regarding servers setup, work and security | [Cluster.Host-Servers](https://github.com/keeeenion/Cluster.Host-Servers) |
 | Dockerfiles | Dockerfiles for building systems running hosted services | [Cluster.Host-Dockerfiles](https://github.com/keeeenion/Cluster.Host-Dockerfiles) |
 
 ## About this subproject
